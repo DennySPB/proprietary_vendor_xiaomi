@@ -590,4 +590,8 @@ PRODUCT_PACKAGES += \
     tcmclient \
     com.qti.dpmframework \
     dpmapi \
-    com.qti.location.sdk
+    com.qti.location.sdk \
+    com.qualcomm.qti.Performance.xml \
+    libqti_performance \
+    QPerformance
+
